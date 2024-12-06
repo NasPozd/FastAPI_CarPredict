@@ -33,9 +33,13 @@
 - Некоторые эксперименты с другими моделями не дали ожидаемого результата, возможно, из-за переобучения.
 
 ## Скриншоты работы сервиса
-![Скриншот 1]([screenshots/screenshot_1.png](https://github.com/NasPozd/FastAPI_CarPredict/blob/main/screenshots/screenshots_3.png))
-![Скриншот 2]([screenshots/screenshot_2.png](https://github.com/NasPozd/FastAPI_CarPredict/blob/main/screenshots/screenshots_2.png))
-![Скриншот 3]([screenshots/screenshot_3.png](https://github.com/NasPozd/FastAPI_CarPredict/blob/main/screenshots/screenshots_3.png))
+**Запросы для тестирования одного автомобиля**
+![Скриншот 1](https://raw.githubusercontent.com/NasPozd/FastAPI_CarPredict/refs/heads/main/screenshots/screenshots_1.png)
+**Запросы для тестирования нескольких автомобилей**
+![Скриншот 2](https://raw.githubusercontent.com/NasPozd/FastAPI_CarPredict/refs/heads/main/screenshots/screenshots_2.png)
+**Запросы для тестирования с CSV**
+![Скриншот 3](https://raw.githubusercontent.com/NasPozd/FastAPI_CarPredict/refs/heads/main/screenshots/screenshots_3.png)
+)
 
 ## Ссылка на демонстрацию
 [Ссылка на демонстрацию работы сервиса](https://drive.google.com/drive/folders/17ioTI6RW1kuK-t32YTfIlhxG8Q9OR7_F?usp=sharing)
