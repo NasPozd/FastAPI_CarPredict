@@ -34,12 +34,17 @@
 
 ## Скриншоты работы сервиса
 **Запросы для тестирования одного автомобиля**
+
 ![Скриншот 1](https://raw.githubusercontent.com/NasPozd/FastAPI_CarPredict/refs/heads/main/screenshots/screenshots_1.png)
+
 **Запросы для тестирования нескольких автомобилей**
+
 ![Скриншот 2](https://raw.githubusercontent.com/NasPozd/FastAPI_CarPredict/refs/heads/main/screenshots/screenshots_2.png)
+
 **Запросы для тестирования с CSV**
+
 ![Скриншот 3](https://raw.githubusercontent.com/NasPozd/FastAPI_CarPredict/refs/heads/main/screenshots/screenshots_3.png)
-)
+
 
 ## Ссылка на демонстрацию
 [Ссылка на демонстрацию работы сервиса](https://drive.google.com/drive/folders/17ioTI6RW1kuK-t32YTfIlhxG8Q9OR7_F?usp=sharing)
